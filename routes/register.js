@@ -13,7 +13,7 @@ router.post('/', (req, res) => {
                 service :'gmail',
                 auth : {
                   user :"umamaheshp3@gmail.com",
-                  pass :"8639264343"
+                  pass :""
                 }
               })
               const mailOptions ={
